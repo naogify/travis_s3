@@ -1,1 +1,1 @@
-# s3_website
+#travis + s3のテスト用レポジトリです。
